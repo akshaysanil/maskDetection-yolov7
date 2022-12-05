@@ -1,0 +1,8 @@
+
+train: ./data/train
+val: ./data/val
+
+nc: 2
+
+# class names
+names: [ 'mask','nomask' ]
