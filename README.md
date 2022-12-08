@@ -29,9 +29,9 @@ In this project i've use like
 
 ## refereneces
 
- - [blog1](https://www.analyticsvidhya.com/blog/2022/08/yolov7-real-time-object-detection-at-its-best/)
- - [blog2](https://www.v7labs.com/blog/yolo-object-detection)
- - [blog3](https://arxiv.org/abs/2207.02696)
+ - [analyticsvidhya](https://www.analyticsvidhya.com/blog/2022/08/yolov7-real-time-object-detection-at-its-best/)
+ - [v7labs](https://www.v7labs.com/blog/yolo-object-detection)
+ - [arxiv](https://arxiv.org/abs/2207.02696)
  
 ## predictions (Sample)
 - ![img5](https://user-images.githubusercontent.com/104578088/206427515-ac960d27-fe3b-45ae-9f08-2a28c897c046.jpg)
