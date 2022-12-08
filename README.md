@@ -9,7 +9,7 @@ world.
 I am giving the materials that i've reffered.
 
 First we need to clone official-yolov7 repo, the link is in below
-- [ official YOLOv7 ](https://github.com/WongKinYiu/yolov7#official-yolov7)
+- Official yolov5 repo:  https://github.com/WongKinYiu/yolov7#official-yolov7
 - Also here I use the yolov7-x weight for this project
 ![image](https://user-images.githubusercontent.com/104578088/206428083-4bc673bc-f46e-4e9b-b26d-6949305a3277.png)
 
