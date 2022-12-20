@@ -20,12 +20,7 @@ First we need to clone official-yolov7 repo, the link is in below
 
 
 
-## Hyperparmeters
-In this project i've use like
-- batch size  16
-- epochs 50
-- img size 640
-* also i created a new custom_data.yaml,yolov7_custom.yaml files and i uploaded these files in this repo 
+
 
 ## refereneces
 
@@ -33,9 +28,16 @@ In this project i've use like
  - [v7labs](https://www.v7labs.com/blog/yolo-object-detection)
  - [arxiv](https://arxiv.org/abs/2207.02696)
  
+ 
+## Input(sample)
+![img1](https://user-images.githubusercontent.com/104578088/208599484-7f77f2fd-3d59-4af1-824f-5c7f20a45169.png)
+![img5](https://user-images.githubusercontent.com/104578088/208599694-88319437-0780-4858-a88f-c76ae64de13f.jpg)
+
+
+ 
 ## predictions (Sample)
-- ![img5](https://user-images.githubusercontent.com/104578088/206427515-ac960d27-fe3b-45ae-9f08-2a28c897c046.jpg)
-- ![img1](https://user-images.githubusercontent.com/104578088/206427366-3aa2ca9a-af76-42be-8338-5194a8e9969b.png)
+![img5](https://user-images.githubusercontent.com/104578088/206427515-ac960d27-fe3b-45ae-9f08-2a28c897c046.jpg)
+![img1](https://user-images.githubusercontent.com/104578088/206427366-3aa2ca9a-af76-42be-8338-5194a8e9969b.png)
 
 
 
